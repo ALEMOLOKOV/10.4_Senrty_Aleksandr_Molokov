@@ -21,14 +21,29 @@ Free Cloud account имеет ограничения:
 
 # Ответ
 
+![Sentry login](https://user-images.githubusercontent.com/109212419/232139050-3070190a-46c0-49f8-8341-6246c399933b.jpg)
 
 
 ## Задание 2
 
 1. Создайте python-проект и нажмите `Generate sample event` для генерации тестового события.
-1. Изучите информацию, представленную в событии.
-1. Перейдите в список событий проекта, выберите созданное вами и нажмите `Resolved`.
-1. В качестве решения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта после нажатия `Resolved`.
+
+![1 1 create project](https://user-images.githubusercontent.com/109212419/232142206-4c63b012-adc1-4f9c-93af-ca0f32db8a39.jpg)
+
+![1 1 create sample ivent](https://user-images.githubusercontent.com/109212419/232142228-03455a13-c8df-4601-8cb0-69265da7ce12.jpg)
+
+2. Изучите информацию, представленную в событии.
+
+![1 2 created event](https://user-images.githubusercontent.com/109212419/232142284-39b070d7-ae9f-4072-adbf-1c8f5b126249.jpg)
+
+3. Перейдите в список событий проекта, выберите созданное вами и нажмите `Resolved`.
+
+![1 3 list issues](https://user-images.githubusercontent.com/109212419/232142336-555f0f01-d001-4dd4-b820-47c91654c059.jpg)
+
+4. В качестве решения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта после нажатия `Resolved`.
+
+![1 4 resolve issue](https://user-images.githubusercontent.com/109212419/232142608-8e9836cd-6b09-4ab1-82c6-7bbb6de75efc.jpg)
+
 
 ## Задание 3
 
