@@ -72,3 +72,21 @@ Free Cloud account имеет ограничения:
 ![3 6 add some allerts](https://user-images.githubusercontent.com/109212419/232337608-3dbd64cd-4da0-4b5a-9b2c-05a1af2407ad.jpg)
 
 ![3 6 mails](https://user-images.githubusercontent.com/109212419/232337616-09779cc4-0251-4309-9cca-61d08ba5e233.jpg)
+
+
+## Задание повышенной сложности
+
+
+1. Создайте проект на ЯП Python или GO (около 10–20 строк), подключите к нему sentry SDK и отправьте несколько тестовых событий.
+
+![4 1 project](https://user-images.githubusercontent.com/109212419/232589545-1faadc08-0703-450b-888c-0ae092627013.jpg)
+
+2. Поэкспериментируйте с различными передаваемыми параметрами, но помните об ограничениях Free учётной записи Cloud Sentry.
+3. В качестве решения задания пришлите скриншот меню issues вашего проекта и пример кода подключения sentry sdk/отсылки событий.
+
+![4 2 sentry](https://user-images.githubusercontent.com/109212419/232589592-084bd8f0-a7ad-4f1e-9fa4-10592229138d.jpg)
+
+![4 2 sentry1](https://user-images.githubusercontent.com/109212419/232591289-068aa7c4-a916-4289-b4db-ebabeb0a9f14.jpg)
+
+![4 3 Allert in mail](https://user-images.githubusercontent.com/109212419/232589640-81512661-2d07-4e94-bbec-5dac7161a9f1.jpg)
+
